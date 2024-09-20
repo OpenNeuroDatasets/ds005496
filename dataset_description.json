@@ -1,9 +1,19 @@
 {
     "Name": "Whisker Stim",
     "BIDSVersion": "1.2.2",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-        "David Hike","Xiaochen Liu","Zeping Xie","Bei Zhang","Sangcheon Choi","Xiaoqing Alice Zhou","Andy Liu","Alyssa Murstein","Yuanyuan Jiang","Anna Devor","Xin Yu"
+        "David Hike",
+        "Xiaochen Liu",
+        "Zeping Xie",
+        "Bei Zhang",
+        "Sangcheon Choi",
+        "Xiaoqing Alice Zhou",
+        "Andy Liu",
+        "Alyssa Murstein",
+        "Yuanyuan Jiang",
+        "Anna Devor",
+        "Xin Yu"
     ],
     "Acknowledgements": "",
     "HowToAsknowledge": "",
@@ -12,5 +22,5 @@
     ],
     "EthicApprovals": "All animal procedures were conducted in accordance with protocols approved by the Massachusetts General Hospital (MGH) Institutional Animal Care and Use Committee (IACUC), and animals were cared for according to the requirements of the National Research Council's Guide for the Care and Use of Laboratory Animals.",
     "ReferenceAndLinks": "https://doi.org/10.7554/eLife.95528.1",
-    "DatasetDOI": "https://doi.org/10.7554/eLife.95528.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005496.v1.0.0"
 }
