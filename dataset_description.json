@@ -1,27 +1,16 @@
 {
     "Name": "Whisker Stim",
     "BIDSVersion": "1.2.2",
-    "License": "CC0",
+    "License": "",
     "Authors": [
-        "Hike, David",
-        "Liu, Xiaochen",
-        "Xie, Zeping",
-        "Zhang, Bei",
-        "Choi, Sangcheon",
-        "Zhou, Xiaoqing Alice",
-        "Liu, Andy",
-        "Murstein, Alyssa",
-        "Jiang, Yuanyuan",
-        "Devor, Anna",
-        "Yu, Xin"
+        "David Hike","Xiaochen Liu","Zeping Xie","Bei Zhang","Sangcheon Choi","Xiaoqing Alice Zhou","Andy Liu","Alyssa Murstein","Yuanyuan Jiang","Anna Devor","Xin Yu"
     ],
     "Acknowledgements": "",
     "HowToAsknowledge": "",
     "Funding": [
-        ""
+        "The research benefited from funding from the NIH Brain Initiative grants (RF1NS113278, RF1NS124778, R01NS122904, R01NS120594, and R21NS121642), U19 Cooperative Agreement Grant (U19NS123717), S10 instrument grants (S10OD028616 and S10RR025563) to the Massachusetts General Hospital/Harvard-MIT Program in Health Sciences and Technology Martinos Center, and NSF CBET grant (2123970)."
     ],
     "EthicApprovals": "",
-    "ReferenceAndLinks": "",
-    "DatasetDOI": "",
-    "HowToAcknowledge": "David Hike, Xiaochen Liu, Zeping Xie, Bei Zhang, Sangcheon Choi, Xiaoqing Alice Zhou, Andy Liu, Alyssa Murstein, Yuanyuan Jiang, Anna Devor, Xin Yu. 2024. High-resolution awake mouse fMRI at 14 Tesla. eLife13:RP95528. https://doi.org/10.7554/eLife.95528.1"
+    "ReferenceAndLinks": "https://doi.org/10.7554/eLife.95528.1",
+    "DatasetDOI": ""
 }
